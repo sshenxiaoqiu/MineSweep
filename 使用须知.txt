@@ -1,0 +1,7 @@
+1、运行请点击BLOCK.py文件
+
+2、修改棋盘长宽
+  打开BLOCK.py文件，修改MAXSIZE参数
+
+3、修改难度
+  打开BLOCK.py文件，修改SIMPLE参数，参数范围限制：(1--无穷)	
